@@ -1,3 +1,7 @@
+# READ-ONLY
+
+This repository has been moved to https://github.com/go-collaboration/fgg-translate
+
 # Translating Go
 
 This Haskell project implements translations from Featherweight (Generic)
